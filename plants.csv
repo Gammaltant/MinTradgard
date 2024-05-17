@@ -1,0 +1,15 @@
+Flower,Akleja,5,7,3,55 cm,rosa,maj,false
+Flower,Daggkåpa,4,14,5,45cm,limegrön,Maj,true
+Flower,Fjärilsbuske,3,21,7,2m,lila,Juni-Aug,true
+Flower,Ros,7,30,4,75cm,mörkröd,Juni-Aug,true
+BuschesAndTrees,Päronträd,7,160,-1,5m,2.5m,true,true,September,Juli-Augusti
+Vegetable,Grönkål,7,14,7,70 cm,Okt-dec
+Vegetable,Gurka,3,7,4,2m,Juni-Sept
+Vegetable,Potatis,3,7,4,50 cm,Juni-augusti
+Vegetable,Rabarber,4,30,0,60 cm,maj-juni
+Vegetable,Rädisor,4,4,3,20 cm,14 dagas intervall
+Vegetable,Rödbetor,7,7,4,35 cm,Augusti
+Vegetable,Tomat,1,3,3,1.5m,Juni-frost
+BuschesAndTrees,Persikoträd,7,160,-1,5m,3m,true,true,Oktober,Juli-September
+Vegetable,Spenat,3,7,3,25 cm,var fjärde vecka
+Vegetable,Ruccola,3,7,3,30 cm,I intervaller hela sommaren
